@@ -18,6 +18,7 @@
   <img align="center" height="30" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="30" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" alt="Postgree" title="Postgree" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" height="30" alt="Postgree" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/node-original.svg" />
  </div>
  
  ##

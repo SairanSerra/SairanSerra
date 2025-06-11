@@ -1,4 +1,7 @@
-<h1> Hi! My name is Sairan. </h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=c77dff&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Sairan;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
   <a href="https://github.com/SairanSerra">
